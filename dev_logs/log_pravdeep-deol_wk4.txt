@@ -1,0 +1,5 @@
+total time spent:  4h
+
+using the andriod studio xml design editor to design a dashboard based on our intial sketch:	1h
+i created a second xml file for viewing grocery list items:					2h
+create the mvp structure in the program:							1h

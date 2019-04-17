@@ -1,0 +1,7 @@
+total time spent: 5h
+
+Learn how to use android studio:				1h
+Plan out the overall feature list/functionality of the app:	2h
+Look up and refresh knowledge about MCV/MVP architecture:	1h 
+Learn version control:						30 min
+Discuss possible databases/libraries that we would require:	30 min

@@ -1,0 +1,7 @@
+Achievements: 5h
+Started work on dashboard
+Finished first version of the dashboard
+Became more familiar with Android Studio
+
+Duties:
+Make more classes for the app

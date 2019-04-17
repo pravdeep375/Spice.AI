@@ -1,0 +1,4 @@
+Total Time:	5 hrs
+
+Plan the demo						1hr
+Added functionality: delete items from lists		4hrs

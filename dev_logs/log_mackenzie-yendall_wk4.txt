@@ -1,0 +1,5 @@
+Total Time:	6 hrs
+
+Worked with Carlo and Pravdeep on improvements to the framework:						3hrs
+Reviewed course material relevent to our project:     							        3hrs
+Implemented the home page based on our initial designs: 							2hrs

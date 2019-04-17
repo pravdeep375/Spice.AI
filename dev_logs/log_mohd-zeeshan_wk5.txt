@@ -1,0 +1,6 @@
+Total Time:	7 hrs
+
+Scrape BBC website to obtain common ingredients		1.5 hr
+Further clean the dataset and add more entries		4 hrs
+Separate Ingredients and recipe				0.5 hr	
+Index all the data and create relations			1 hr

@@ -1,0 +1,4 @@
+Total Time:	15 hrs
+
+Plan and clean the dataset and index the ingredients		3 hrs
+Use the dataset and program the learner for machine learning	15 hrs

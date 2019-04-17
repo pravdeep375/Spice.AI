@@ -1,0 +1,4 @@
+Total Time:						14hrs
+Setting up client-server interactions with AWS and EC2: 10hrs
+Working on 4th Deliverable: 		 		3hrs
+General debugging:					1hrs

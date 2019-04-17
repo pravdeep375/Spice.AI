@@ -1,0 +1,12 @@
+Total Time:	63 hrs
+
+Add dependencies to the android project						1hr
+Refactor the app into MVP architecture						16hrs
+Modify the project to use Fragments instead of Activities			10hrs
+Add model classes and fix the data flow from model to presenter to view		12hrs
+Fix the Dashboard, Recipe and Ingredient_List layouts				6hrs
+Change the components within the fragments to be added dynamically		4hrs
+Modify the app to use same layouts for different types of data			4hrs
+Added functionalities: Obtain inventory, create grocery lists from a recipe,
+search recipe details through the autocomplete search box			9hrs
+Collabrated work on D2								1hr

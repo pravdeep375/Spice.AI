@@ -1,0 +1,5 @@
+Total Time:	4 hrs
+
+Set-up initial project and structure the folders for MVP archetecture	2hrs
+Gather data for Machine Learning 					1hr
+Learn Allrecipes API		 					1hr

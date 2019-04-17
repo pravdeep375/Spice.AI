@@ -1,0 +1,11 @@
+Achievements: 35 hrs
+* Completed demo version
+* Helped Mackenzie finalize dashboard
+* Made recipe display activity
+* Polished recipe_list class
+* Finished page 1 of deliverable 2 document
+* Made autocomplete feature for recipe database
+* Debugging
+
+Duties:
+* Start looking into server work

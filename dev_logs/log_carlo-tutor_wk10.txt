@@ -1,0 +1,3 @@
+Achievements: 7 hrs
+* Set up connections to server
+* Finished D4 write up 

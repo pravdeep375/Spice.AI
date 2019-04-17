@@ -1,0 +1,4 @@
+Achievements: 5hrs
+* Worked on initial project creation
+* Created basic architecture and design hierarchy
+* Researched more on android studio

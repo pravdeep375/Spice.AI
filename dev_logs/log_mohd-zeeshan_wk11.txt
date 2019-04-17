@@ -1,0 +1,11 @@
+Total Time:	12 hrs
+
+Connected client with server through APIs and fixed all the channels
+Implemented client-side storage to store inventory and grocery list
+Finished 'recipe prediction' functionality
+Modified the code to make least requests to the server
+ - (Only request for 'prediction' when inventory is updated)
+Implemented cross-check feature between inventory and grocery list
+ - (decided to revert back - user should be able to add items to the grocery list whether it exists in inventory or not)
+Touch-ups on layouts
+Finished the app!

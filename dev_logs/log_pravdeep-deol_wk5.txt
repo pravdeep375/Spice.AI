@@ -1,0 +1,4 @@
+total time spent: 3h
+
+setup a xml layout file for the grocery list view	2h
+write code to expand the list in the scroll view	1h

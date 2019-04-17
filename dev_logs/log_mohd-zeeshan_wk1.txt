@@ -1,0 +1,5 @@
+Total Time:	7 hrs
+
+Refresh knowledge of Android Studio and Mobile development		5 hrs
+Look into architectures (MVC/MVP) and discuss the pros and cons 	1 hr
+Plan the flow of the application and decide the layout/draw mockups	1 hr

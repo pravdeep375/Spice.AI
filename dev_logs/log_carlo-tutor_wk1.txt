@@ -1,0 +1,11 @@
+Achievements: 5h
+Discussed with rest of the team how the app would look
+Helped make diagram for general idea of app navigation
+Started work on Deliverable 2
+discussed necessary components
+review model view controller
+
+Duties:7h
+Get to know Android Studio intimately/mobile dev
+Look into MVC/MVP, pros and cons, which is preferable
+Look into libraries we need to use for the dev of the app

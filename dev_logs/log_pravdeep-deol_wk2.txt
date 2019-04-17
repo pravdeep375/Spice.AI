@@ -1,0 +1,8 @@
+total time spent: 6h
+
+start intial setup of android studio structure:			2h
+Plan out the overall feature list/functionality of the app:	2h
+Learn how to use/implement a Model/View/Presenter architecture:	1h
+sketch out design layout for ui:				1h
+
+ 

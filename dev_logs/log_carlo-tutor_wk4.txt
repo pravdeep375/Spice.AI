@@ -1,0 +1,4 @@
+Achievements: 6hrs
+* Worked with Mackenzie and Pravdeep on framework improvements
+* Reviewed material relevant to project
+* Implemented home page

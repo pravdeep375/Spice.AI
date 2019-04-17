@@ -1,0 +1,4 @@
+total time spent: 4h
+
+reaserch different architecture styles and design patterns for deliverable 3: 3h
+using our code as reference find the best matches for architecture and design: 1h

@@ -1,0 +1,3 @@
+Total Time:	 hrs
+
+Project and error fixes	in views and presenter			3hrs

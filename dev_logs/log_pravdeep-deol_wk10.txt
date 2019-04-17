@@ -1,0 +1,5 @@
+total time spent: 13h
+
+implement the add item to list functionality including grocery lists or the inventory: 10h
+prepare the deliverable 4 documentation: 1h
+add functionality where when adding to any list is checks for duplicate ingredients: 2h

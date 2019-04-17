@@ -1,0 +1,5 @@
+total time spent: 4h
+
+create the IngredientListImpl and RecipeDetailListImpl with add and remove methods: 	1h
+using the RecipeDetailListImpl add more recipes and recipe details		2h
+practice for presenting demo:		1h

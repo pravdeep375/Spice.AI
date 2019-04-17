@@ -1,0 +1,11 @@
+Achievements: 5h
+Discussed with rest of the team how the app would look
+Helped make diagram for general idea of app navigation
+Started work on Deliverable 2
+discussed necessary components
+review model view controller
+
+Duties:5h
+Get to know Android Studio intimately/mobile dev
+Look into MVC/MVP and determine which is a preferable choice. Determined that MVC is the better option for our purposes.
+Research requisite databases and libraries for the build to draw on. Determined that MySQL is the optimal choice.

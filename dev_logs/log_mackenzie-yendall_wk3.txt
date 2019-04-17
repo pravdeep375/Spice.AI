@@ -1,0 +1,5 @@
+Total Time:	5 hrs
+
+Pushed the initial project creation and tested that changes could be demonstrated on my android phone(hello world test):  1 hrs
+Worked with the others to create a basic architechture and design hierarchy for the application: 			  2 hrs
+Furthered my knowledge of android studio through research:								  2 hrs

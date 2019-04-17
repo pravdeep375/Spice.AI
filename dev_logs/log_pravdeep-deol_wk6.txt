@@ -1,0 +1,6 @@
+total time spent: 20h
+
+researching mvp and how to create fragments and swap between them:	7h
+finish creating layout files for the app including, activity_main, grocery_list fragment and add_to_list fragment:	6h
+create classes for each fragment:	6h
+figure out how to crate a dialogfragment to display on screen:	3h

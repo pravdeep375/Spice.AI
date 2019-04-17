@@ -1,0 +1,9 @@
+Total Time:	27 hrs
+
+Build the server using Node.js and express.js				2 hrs
+Implemented RESTful API to feed necessary data to client	1 hr
+Connected AWS to domain										2 hrs
+Moved business logic from client to server					6 hrs
+Added 'Predict Recipes' and load images functionalities		5 hrs
+Scraped Google Images to obtain urls for 10,000 recipes		3 hrs (program ran for 16 hrs day)
+Made the video for D4										8 hrs

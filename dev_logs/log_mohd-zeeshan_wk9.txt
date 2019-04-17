@@ -1,0 +1,10 @@
+Total Time:	9 hrs
+
+
+Worked on D3 and fixed issues with architectures		3hrs
+
+Planned out the implementation of Client-Server
+architecture using APIs									2hrs
+
+Setup AWS EC2 instance and installed necessary
+software packages on the environment					4hrs

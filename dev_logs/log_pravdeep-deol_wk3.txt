@@ -1,0 +1,5 @@
+total time spent: 4h
+
+watched/read a variety of andriod studio tutorials to better understand how the development works:	2h
+created the intial andriod studio project hello world example: 						1h
+upload this to the bitbucket and go through a practice run of write some code:				1h

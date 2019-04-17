@@ -1,0 +1,6 @@
+Total Time:	13 hrs
+
+Gather necessary data for machine learning:									5hrs
+Familiarize self with TensorFlow and other libraries:     							5hrs
+Research other libraries we need to use for the development of the app:						1hr
+Look into design options such as UX and UI on dribbble, as well as other possible sources:			2hrs

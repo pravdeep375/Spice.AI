@@ -1,0 +1,10 @@
+Total Time:	35 hrs
+
+General: Completed the demo version of Spice.AI
+
+Completed work in Android Studio regarding the cosmetic appearance of the app:					6hrs
+Diagram Development: 												2hrs
+Finalized the dashboard: 											7hrs
+Collaborated on Deliverable 2: 											2hrs
+Debugging:													6hrs
+Research:													12hrs
