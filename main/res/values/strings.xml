@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Spice.AI</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+    <string name="app_label">Spice.AI</string>
+    <string name="search_hint">Input a recipe!</string>
+</resources>

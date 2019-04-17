@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:id="@+id/recipeTile"
+        android:layout_width="match_parent"
+        android:layout_height="220dp"
+        android:layout_marginRight="5dp"
+        android:background="@color/bootstrap_dropdown_divider"
+        android:orientation="vertical"
+        android:weightSum="1"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="8dp">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.90"
+            android:src="@drawable/sad_star"
+            android:textAlignment="center" />
+
+        <TextView
+            android:id="@+id/notification"
+            android:layout_width="match_parent"
+            android:layout_height="39dp"
+            android:height="50dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:text="We couldn't find any recipes."
+            android:textColor="@color/bootstrap_gray_light"
+            android:textSize="16dp" />
+        <TextView
+            android:id="@+id/notification2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:height="50dp"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:text="Please try adding more items to your inventory."
+            android:textColor="@color/bootstrap_gray_light"
+            android:textSize="16dp" />
+    </LinearLayout>
+</RelativeLayout>
